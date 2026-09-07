@@ -1,0 +1,37 @@
+[
+	{
+		"id": "scheduling",
+		"title": "Smart Scheduling",
+		"shortDescription": "Auto-assigns work based on real team capacity.",
+		"detail": "Flowbase reads everyone's current workload, working hours, and time off, then proposes an assignment that keeps the whole team below their limit. Drag to adjust and the schedule rebalances instantly, so no one silently ends up with three deadlines on the same Friday.",
+		"icon": "calendar"
+	},
+	{
+		"id": "collaboration",
+		"title": "Team Collaboration",
+		"shortDescription": "Comments, mentions, and updates in one thread per task.",
+		"detail": "Every task carries its own conversation, file attachments, and decision history. Mention a teammate and they get a single notification with the full context, not a fragment forwarded from three tools away.",
+		"icon": "users"
+	},
+	{
+		"id": "tracking",
+		"title": "Progress Tracking",
+		"shortDescription": "See what's on track and what's slipping at a glance.",
+		"detail": "A live board rolls task status up into project health so you spot a slip while there's still time to act. Filter by owner, milestone, or client, and share a read-only view with stakeholders who don't need a seat.",
+		"icon": "chart"
+	},
+	{
+		"id": "integrations",
+		"title": "Integrations",
+		"shortDescription": "Connect the tools your team already lives in.",
+		"detail": "Two-way sync with your calendar, chat, and code host means a status change in Flowbase shows up where your team is already looking. Set it up once and updates flow both directions without anyone copy-pasting.",
+		"icon": "plug"
+	},
+	{
+		"id": "reporting",
+		"title": "Reporting",
+		"shortDescription": "Turn a week of activity into a report in one click.",
+		"detail": "Built-in reports cover throughput, cycle time, and workload balance, exportable as a link or a PDF. Schedule a weekly summary to land in your inbox every Monday so the status meeting is a review, not a scramble.",
+		"icon": "document"
+	}
+]

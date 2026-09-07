@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Starter",
+		"monthlyPrice": 12,
+		"annualPrice": 10,
+		"description": "For small teams getting organized.",
+		"features": [
+			"Up to 5 team members",
+			"Basic scheduling",
+			"Task comments & mentions",
+			"Email support"
+		],
+		"featured": false
+	},
+	{
+		"name": "Team",
+		"monthlyPrice": 29,
+		"annualPrice": 24,
+		"description": "For growing teams that need more control.",
+		"features": [
+			"Up to 20 team members",
+			"Advanced scheduling & rebalancing",
+			"Progress tracking dashboards",
+			"Integrations",
+			"Priority support"
+		],
+		"featured": true
+	},
+	{
+		"name": "Business",
+		"monthlyPrice": 59,
+		"annualPrice": 49,
+		"description": "For organizations running many projects.",
+		"features": [
+			"Unlimited team members",
+			"Custom workflows",
+			"Advanced reporting & exports",
+			"SSO & audit log",
+			"Dedicated support"
+		],
+		"featured": false
+	}
+]
